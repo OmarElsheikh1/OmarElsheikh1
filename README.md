@@ -1,5 +1,5 @@
-# 💫 About Me:
 # 👋 Hi, I'm Omar Elsheikh!
+# 👨‍💻 Software Test Engineer:
 🎓 Mechatronics Engineer turned Software QC Engineer sharing my journey in tech and continuous learning.<br/>
 💻 Studied Mechatronics Engineering at Mansoura University, Egypt.<br/>
 🔍 Passionate about Quality Assurance, Automation Testing, and solving challenging problems in software and systems.<br/>
