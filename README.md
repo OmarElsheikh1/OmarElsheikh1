@@ -1,5 +1,14 @@
 # 💫 About Me:
-### Hi, I'm Omar! 👋<br><br>🎓 Mechatronics Engineer turned Software QC Engineer sharing my journey in tech and continuous learning.<br><br>💻 Studied Mechatronics Engineering at Mansoura University, Egypt.<br><br>🔍 Passionate about Quality Assurance, Automation Testing, and solving challenging problems in software and systems.<br><br><br>🛠 Projects I've worked on include:<br><br>1. ROVs (Remotely Operated Vehicles)<br><br>2. CNC (Computer Numerical Control) Machine<br>  <br>3. Legged Robots<br><br>4. RC Cars equipped with sensors and technologies<br><br>📝 Currently exploring Automation Testing with a focus on Java, Maven, Selenium, and TestNG.<br><br>🌟 #LearningInPublic and sharing test cases to enhance workflows and efficiency.<br><br>📚 In my free time, I enjoy sketching ideas, reading inspiring books, and staying curious about the latest trends in tech.<br><br>📩 Let's connect!<br>Feel free to reach out to discuss quality assurance, software testing, or anything tech-related!
+# 👋 Hi, I'm Omar Elsheikh!
+🎓 Mechatronics Engineer turned Software QC Engineer sharing my journey in tech and continuous learning.<br/>
+💻 Studied Mechatronics Engineering at Mansoura University, Egypt.<br/>
+🔍 Passionate about Quality Assurance, Automation Testing, and solving challenging problems in software and systems.<br/>
+🛠 Projects I've worked on include ROVs, CNC Machines, Legged Robots, and RC Cars equipped with sensors.<br/>
+📝 Exploring Automation Testing with a focus on Java, Maven, Selenium, and TestNG.<br/>
+📜 Certified ISTQB Foundation Level version 4.<br/>
+🌟 #LearningInPublic and sharing test cases to enhance workflows and efficiency.<br/>
+📚 Enjoying sketching ideas, reading inspiring books, and staying curious about the latest trends in tech.<br/>
+📩 Let's connect! Feel free to reach out to discuss quality assurance, software testing, or anything tech-related!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-elsheikh1999/) 
