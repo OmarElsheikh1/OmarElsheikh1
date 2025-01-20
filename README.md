@@ -20,7 +20,5 @@
 ![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20you%20didn%27t%20risk%2C%20you%20won%27t%20make%20glory)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OmarElsheikh1&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://komarev.com/ghpvc/?username=OmarElsheikh1&style=flat-square&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
