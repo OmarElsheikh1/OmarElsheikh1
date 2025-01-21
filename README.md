@@ -10,10 +10,11 @@
 📚 Enjoying sketching ideas, reading inspiring books, and staying curious about the latest trends in tech.<br/>
 📩 Let's connect! Feel free to reach out to discuss quality assurance, software testing, or anything tech-related!
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-elsheikh1999/) 
 
-# 💻 Skills:
+
+## 💻 Skills:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
 [![Selenium](https://img.shields.io/badge/selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
