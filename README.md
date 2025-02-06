@@ -15,24 +15,20 @@
 
 
 ## 💻 Skills:
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
-[![Selenium](https://img.shields.io/badge/selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
-[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-[![Markdown](https://img.shields.io/badge/markdown-%230000FF.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc)
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="40" height="40"/></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40"/></a>
+<a href="https://playwright.dev" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/playwright/playwright.png" width="40" height="40"/></a>
+<a href="https://maven.apache.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" width="40" height="40"/></a>
+<a href="https://www.jenkins.io" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" width="40" height="40"/></a>
+<a href="https://www.notion.so" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png" width="40" height="40"/></a>
+<a href="https://www.markdownguide.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" width="40" height="40"/></a>
+<a href="https://www.arduino.cc" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" width="40" height="40"/></a>
+
 
 
 
